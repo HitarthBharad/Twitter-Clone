@@ -19,13 +19,13 @@ You will also see any lint errors in the console.
 
 ## Features: 
 
-## `Create Account`
+### `Create Account`
 
 You will be able to create account. This field will ask you to write your First-Name, Last Name, Username (of your choice, but it has to be unique otherwise it will give error in Alert box while making), Password, Unique Email ID, Date of Birth.
 
 If everything goes right than your account will be made
 
-## `Login`
+### `Login`
 
 Once your account has been made successfully you will be able to login by your unique Username and Password. 
 It will check the username and password and if it is correct than you will redirected to next page.
@@ -34,28 +34,28 @@ It will check the username and password and if it is correct than you will redir
 
 2. Otherwise you will be redirected to tweet-feed
 
-## `Edit Profile`
+### `Edit Profile`
 
 You can edit your profile.
 
-## `Tweet`
+### `Tweet`
 
 You can post your thought in tweet medium to the world; with your username, photo and Date of creation
 
-## `Edit / Delete Tweet`
+### `Edit / Delete Tweet`
 
 After posting your tweet, you can Edit or Delete your tweet.
 
-## `Search Profile`
+### `Search Profile`
 
 You can search profile with thier username;
 if profile is not availbale than you will be given error message, otherwise it will redirect to you asking page.
 
-## `Follow / Unfollow`
+### `Follow / Unfollow`
 
 You can Follow/Unfollow Profiles. By Following you can see thier tweets on you feed
 
-## `Like, Comment`
+### `Like, Comment`
 
 You can Like/Comment on any tweet availbale.
 
