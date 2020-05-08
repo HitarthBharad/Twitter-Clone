@@ -1,7 +1,7 @@
 # Twitter-Clone
 This project is considered under NoSQL course in DA-IICT institute. 
 
-I have use MongoDB for my Database. 
+I have use MongoDB for my Database, ReactJS for frontend Developement, Express JS and Node for backend Developement 
 
 Twitter-Clone have some of the basic features:
 1. Create Account 
